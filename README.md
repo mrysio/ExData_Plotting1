@@ -1,5 +1,7 @@
 My solution to the task described below inlcudes:
--four plots in png format and corresponding to them four R code file to reconstruct plots
+
+- four plots in png format 
+- corresponding to them four R code file to reconstruct plots
 - additionally, each R code file includes code to read and prepare the data
 
 ##############################################################################################################
